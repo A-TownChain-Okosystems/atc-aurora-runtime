@@ -14,11 +14,11 @@ atc-aurora-runtime/
 ├── CHANGELOG.md
 ├── FILE_REGISTER.md
 └── src/
-    ├── agent_runtime.atc               Agent runtime — session, task, lifecycle
-    ├── tool_executor.atc               Tool executor — registration, execution, validation
-    ├── sandbox.atc                     Sandbox — isolated execution, resource limits
-    ├── task_scheduler.atc              Task scheduler — queue, priority, deadlines
-    ├── result_collector.atc            Result collector — aggregation, dedup, ranking
+    ├── agent_runtime.atc    0 lines    Session, task, lifecycle
+    ├── tool_executor.atc    0 lines    Tool registration & execution
+    ├── sandbox.atc    0 lines    Sandboxed execution
+    ├── task_scheduler.atc    0 lines    Task queue
+    └── result_collector.atc    0 lines    Result aggregation
 ```
 
 ## Statistik
@@ -26,7 +26,7 @@ atc-aurora-runtime/
 | Metrik | Wert |
 |--------|------|
 | .atc Dateien | 5 |
-| Layer | L6 — AI Layer |
+| .atc Zeilen | 0 |
 | ATC-Standard | ATC-97 |
 | Sprint | 3.2 |
 | Status | 📋 GEPLANT |
