@@ -6,7 +6,7 @@
 
 | Sprint | Phase | Status |
 |--------|-------|--------|
-| 3.2 | Implementation | 📋 GEPLANT |
+| 3.2 | Phase 3.2 | 📋 GEPLANT |
 
 ## Meilensteine
 
@@ -15,4 +15,4 @@
 3. M3: Integration & Tests
 
 ---
-*Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
+*Auto-generiert 2026-08-08 · Aurora*
