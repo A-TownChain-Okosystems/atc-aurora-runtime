@@ -17,11 +17,11 @@
 
 | Komponente | Status | Parse | Tests |
 |-----------|--------|-------|-------|
-| `src/agent_runtime.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/tool_executor.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/sandbox.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/task_scheduler.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/result_collector.atc` | 📋 GEPLANT | ❌ | ❌ |
+| src/agent_runtime.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/tool_executor.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/sandbox.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/task_scheduler.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/result_collector.atc | 📋 GEPLANT | ❌ | ❌ |
 
 ---
-*Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
+*Auto-generiert 2026-08-08 · Aurora*
